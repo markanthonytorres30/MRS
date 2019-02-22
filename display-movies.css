@@ -1,0 +1,27 @@
+#banner{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.card{
+	width: 15rem;
+	margin-bottom: 2em;
+}
+#sched{
+	font-style: italic;
+}
+.card:hover{
+	width: 16rem;
+}
+.modal-header {
+	background-color: black;
+
+}
+.modal-title{
+	color: white;
+}
+
+#navbtn{
+	background-color: black;
+}
+

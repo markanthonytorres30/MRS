@@ -1,0 +1,72 @@
+
+.body {
+	background-color: 
+}
+
+.movie-col {
+	padding: 19px;
+}
+
+.movie img {
+	width:100%;
+	max-width: 300px;
+	margin: 10px;
+	max-height: 250px;
+}
+
+.movie .movie-body{
+	font-size: 14px;
+}
+
+.table img {
+	width:100%;
+	max-width: 25px;
+}
+
+.table {
+	font-size: 14px;
+	max-width: 500px;
+	font-weight: bold;
+}
+
+.table {
+	border-collapse: collapse;
+}
+
+.table td {
+	padding: 0; 
+	margin: 0;
+}
+
+.table .seat:hover {
+	background-color: orange;
+} 
+
+.table .hotseat {
+	background-color: #ffc107;
+}
+
+.taken {
+	opacity: 0.2;
+}
+
+.taken:hover {
+	background-color: white;
+}
+
+.screen {
+	margin-top: 5px;
+	background-color: gray;
+}
+
+.legend {
+	font-size: 14px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.compute-input .row label{
+	font-size: 14px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: bold;
+}
+

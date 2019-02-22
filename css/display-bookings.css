@@ -1,0 +1,12 @@
+tr:hover{
+	background-color: gray;	
+}
+
+#delete{
+ color: red;
+}
+
+.modal-header{
+	background-color: black;
+	color: white;
+}
